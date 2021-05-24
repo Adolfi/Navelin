@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Dosis';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Dosis Regular'), local('Dosis-Regular'), url(https://web.archive.org/web/20180818190922im_/http://fonts.gstatic.com/s/dosis/v7/HhyaU5sn9vOmLzloC_A.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 19:09:22 Aug 18, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:50:25 May 24, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1053.826
+  exclusion.robots: 0.155
+  exclusion.robots.policy: 0.145
+  RedisCDXSource: 1.686
+  esindex: 0.012
+  LoadShardBlock: 351.809 (3)
+  PetaboxLoader3.datanode: 543.202 (4)
+  CDXLines.iter: 93.879 (3)
+  load_resource: 568.922
+  PetaboxLoader3.resolve: 84.421
+*/

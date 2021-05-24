@@ -1,0 +1,66 @@
+﻿.headerLink:hover{
+	text-decoration: none;
+}
+
+body
+{
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+p, span{
+font-family: 'Open Sans', sans-serif !important;
+}
+
+.nav a
+{
+    font-family: 'Dosis', sans-serif !important;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+h1, h2
+{
+    font-family: 'Dosis', sans-serif !important;
+    text-transform: uppercase;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    -ms-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.nav > li > a
+{
+    padding: 0 15px !important;
+}
+
+.nav li{
+min-width: 79px !important;
+}
+
+.bit-track-artist-header, bit-header, bit-description-links {
+display: none !important;
+}
+/*
+     FILE ARCHIVED ON 19:17:57 Aug 18, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:50:23 May 24, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.212
+  load_resource: 427.311 (2)
+  LoadShardBlock: 326.466 (3)
+  CDXLines.iter: 33.962 (3)
+  PetaboxLoader3.resolve: 155.096 (3)
+  captures_list: 397.869
+  RedisCDXSource: 30.658
+  exclusion.robots.policy: 0.199
+  PetaboxLoader3.datanode: 401.973 (5)
+  esindex: 0.026
+*/
